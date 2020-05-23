@@ -1,5 +1,5 @@
-log
-log/*
+logs
+logs/*
 utils
 utils/*
 herald-server.sh
