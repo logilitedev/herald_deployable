@@ -1,0 +1,7 @@
+log
+log/*
+utils
+utils/*
+herald-server.sh
+config.yml
+herald-localhost.jks
